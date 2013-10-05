@@ -6,5 +6,5 @@
 		echo $key.''.$value;
 	}
 
-	include_once('bootstrap/template.html');
+	include_once('bootstrap/template1.html');
 ?>

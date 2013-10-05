@@ -6,4 +6,8 @@ class Property{
 		$this->name = 'New Property';
 		$this->size = 100;
 	}
+
+	function __get() {
+
+	}
 }
